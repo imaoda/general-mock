@@ -17,3 +17,7 @@
 1. `yarn` 或者 `npm i`
 2. 在 mock 文件夹下加入 mock 数据
 3. `yarn mock` 或者 `npm run mock`  启动调试
+
+## 相关文章
+
+[相关文章](https://github.com/imaoda/js-front-end-practice/blob/master/0%E4%BE%9D%E8%B5%96100%E8%A1%8C%E4%BB%A3%E7%A0%81%E4%B8%BA%E9%A1%B9%E7%9B%AE%E6%B7%BB%E5%8A%A0mock.md)
